@@ -1,0 +1,16 @@
+{
+
+  "start_shoplist_activity": "Souhaitez-vous accéder à la liste de course ?",
+  "start_directory_activity": "Souhaitez-vous accéder au répertoire ?",
+  "add_item_shoplist": "Voulez-vous ajouter un élément à votre liste ?",
+  "del_shoplist": "Souhaitez-vous vraiment supprimer l'intégralité de votre liste de course ?",
+  "read_shoplist": "Voulez-vous lire votre liste ?",
+  "shoplist_empty": "Votre liste de course est pleine.",
+  "end_shoplist": "Fin de votre liste de course.",
+  "restart" : "Recommencer",
+  "no_item": "Il n'y a plus de produit disponible",
+  "add_item": "Ajouter :",
+  "no_contact_available": "Il n'y a plus de contact disponible.",
+  "call_contact": "Voulez-vous appeler ",
+  "tel": "Tél :"
+}

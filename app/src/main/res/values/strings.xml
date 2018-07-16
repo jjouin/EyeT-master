@@ -1,0 +1,15 @@
+<resources>
+    <string name="add">Add</string>
+    <string name="shoplist">ShopList !</string>
+    <string name="app_name">EldApp</string>
+    <string name="wlcm_msg">Welcome on EldApp !\nWhat do you want to do ?</string>
+    <string name="wlcm_shoplist">Welcome on your ShopList !</string>
+    <string name="setAppointment">Shoplist v2</string>
+    <string name="SL_Prod">Add a product</string>
+    <string name="SL_Qty">Add a quantity</string>
+    <string name="SL_Add">Add to the list</string>
+    <string name="NewContact">New Contact</string>
+    <string name="AddContact">Add a contact</string>
+    <string name="Directory">Directory</string>
+    <string name="Contacts">Contacts</string>
+</resources>

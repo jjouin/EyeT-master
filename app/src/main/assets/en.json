@@ -1,0 +1,16 @@
+{
+
+	"start_shoplist_activity": "Do you want to start the Shoplist activity ?",
+	"start_directory_activity": "Do you want to start the Directory activity ?",
+	"add_item_shoplist": "Do you want to add items to your shoplist ?",
+	"del_shoplist": "Do you want to delete all your shoplist ?",
+	"read_shoplist": "Do you want to read your shoplist ?",
+	"shoplist_empty": "Your ShopList is empty.",
+	"end_shoplist": "End of your ShopList.",
+	"restart" : "Restart",
+	"no_item": "There are no more items available",
+	"add_item": "Add :",
+	"no_contact_available": "There are no contact available.",
+	"call_contact": "Do you want to call ",
+	"tel": "Tel :"
+}
